@@ -1,8 +1,6 @@
 # To-do-list
 OctaNet Software Services Task 2 - TO DO List
 
-Certainly! Let's break down the tasks for each category in more detail, including specific deadlines, priorities, and labels.
-
 ### Task Categories:
 
 #### 1. **Website Development:**
